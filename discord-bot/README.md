@@ -1,4 +1,4 @@
-# Python-Programs
+# Python-Bot-Test
 ### Discord
 ``` 
 python -m pip install discord.py
